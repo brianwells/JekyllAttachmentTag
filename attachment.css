@@ -1,0 +1,30 @@
+a.dllink :focus {
+  cursor: pointer;	
+}
+a.dllink {
+	text-decoration: none;
+}
+div.dlicon {
+	float: left;
+	margin: 0 15px;
+}
+div.dlsize {
+	color: #808080;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0;
+}
+div.dldate {
+	color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}
+div.dlinfo {
+	overflow: hidden;
+	border-top: thin solid #eeeeee;
+}
+div.dldesc p {
+	margin-top: 0;
+}
